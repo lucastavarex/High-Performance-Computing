@@ -1,0 +1,2 @@
+gfortran multiply_matrix.f90 -o fort
+./fort 1 2 2.5 3.5 >> results.csv
